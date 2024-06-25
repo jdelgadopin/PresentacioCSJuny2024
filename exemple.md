@@ -158,6 +158,7 @@ notes that try to keep the ideas (and some of the text) of SICP._
 
 ## _Standard Model of Languages_ (SMoL)
 
+<br>
 
 * _lexical scope_
 * _nested scope_
