@@ -1,8 +1,9 @@
 class: center, middle
 
-## Ensenyament de la Programació GIA
+## Ensenyament de la Programació al
+## Grau en Intel·ligència Artificial
 
-# PA1-GIA,  PA2-GIA, ABIA-GIA, PAA-GIA
+# PA1,  PA2, ABIA, PAA
 
 ![:scale 50%](figures/maxresdefault-1.jpg)
 
@@ -33,8 +34,6 @@ Jordi Delgado, Juny 2024
 
 .center[![:scale 100%](figures/pa1_index.png)]
 
-<br>
-
 * laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
 
 * 80% Nota teoria (_max(final,(parcial+final)/2)_) + 20% Nota pràctica
@@ -44,8 +43,6 @@ Jordi Delgado, Juny 2024
 ## PA2: _Construint Abstraccions amb Dades_
 
 .center[![:scale 100%](figures/pa2_index.png)]
-
-<br>
 
 * laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
 
@@ -78,22 +75,21 @@ Jordi Delgado, Juny 2024
 * Caroline König
 
 --- 
+---
 
 ## ABIA: _Algorismes Bàsics per a la IA_
 
 .center[![:scale 80%](figures/ABIA.png)]
 
-<br>
-
-*  max((parcial*0.2 + final*0.3), final*0.5) + laboratorio*0.5
+*  max((parcial $\times$ 0.2 + final $\times$ 0.3), final $\times$ 0.5) + laboratorio $\times$ 0.5
+ 
+*  Python & PDDL: Planning Domain Description Language
 
 ---
 
 ## PAA: _Programació i Algorísmica Avançades_
 
 .center[![:scale 100%](figures/PAA.png)]
-
-<br>
 
 * laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
 
