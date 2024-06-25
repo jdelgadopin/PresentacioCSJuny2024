@@ -171,6 +171,6 @@ notes that try to keep the ideas (and some of the text) of SICP._
 <br>
 
 Kuang-Chen Lu and Shriram Krishnamurthi. 2024. 
-Identifying and Correcting Programming Language Behavior Misconceptions. 
+**Identifying and Correcting Programming Language Behavior Misconceptions**
 Proc. ACM Program. Lang. 8, OOPSLA1, Article 106 (April 2024),
 https://doi.org/10.1145/3649823
