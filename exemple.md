@@ -1,0 +1,162 @@
+class: center, middle
+
+## Ensenyament de la Programació GIA
+
+# PA1-GIA,  PA2-GIA, ABIA-GIA, PAA-GIA
+
+![:scale 50%](figures/maxresdefault-1.jpg)
+
+Jordi Delgado, Juny 2024
+
+![](figures/logoupc.png)
+
+---
+
+## La font d'inspiració de PA1 & PA2
+
+<br>
+
+![:scale 100%](figures/cs61a.png)
+.tiny[https://cs61a.org/]
+<br>
+
+![:scale 100%](figures/composing.png)
+.tiny[https://www.composingprograms.com/]
+<br>
+<br>
+* John DeNero (Giancarlo Teaching Fellow, UC Berkeley EECS department) <br>
+ .tiny[.blue[denero@berkeley.edu]]
+
+---
+
+## PA1: _Construint Abstraccions amb Funcions_
+
+.center[![:scale 100%](figures/pa1_index.png)]
+
+<br>
+
+* laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
+
+* 80% Nota teoria (_max(final,(parcial+final)/2)_) + 20% Nota pràctica
+
+---
+
+## PA2: _Construint Abstraccions amb Dades_
+
+.center[![:scale 100%](figures/pa2_index.png)]
+
+<br>
+
+* laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
+
+* 80% Nota teoria (_max(final,(parcial+final)/2)_) + 20% Nota pràctica
+
+---
+
+## Eines (1): PythonTutor 
+
+.center[![:scale 80%](figures/pythontutor.png)]
+
+---
+
+## Eines (&2): Jutge 
+
+.center[![:scale 40%](figures/jutge.png)]
+
+---
+
+## Col·laboradors
+
+<br>
+<br>
+
+* José Luis Balcázar, co-coordinador de PA2, i més coses...
+
+<br>
+
+* Sergio Alvarez-Napagao
+* Caroline König
+
+--- 
+
+## ABIA: _Algorismes Bàsics per a la IA_
+
+.center[![:scale 80%](figures/ABIA.png)]
+
+<br>
+
+*  max((parcial*0.2 + final*0.3), final*0.5) + laboratorio*0.5
+
+---
+
+## PAA: _Programació i Algorísmica Avançades_
+
+.center[![:scale 100%](figures/PAA.png)]
+
+<br>
+
+* laboratori + Pràctica (en parelles) + col·lecció problemes + Jutge
+
+* 80% Nota teoria (_max(final,(parcial+final)/2)_) + 20% Nota pràctica
+
+---
+
+---
+
+## Structure and Interpretation of Computer Programs (SICP)
+
+<br>
+
+.center[
+![:scale 28.5%](figures/sicp1.jpg)
+![:scale 30%](figures/sicp2.jpg)
+![:scale 30%](figures/sicp3.jpg)
+]
+
+<br>
+
+* Textbook for MIT's former introductory programming course, 6.001, from 1984 to 2007
+
+* First edition 1984, second edition 1996, Javascript edition 2022
+
+---
+
+## _Not really..._ Lisp seminars, FIB, 80's
+
+<br>
+<br>
+
+```scheme
+(define (abs x)
+  ((if (< x 0) - +) x))
+```
+
+<br>
+<br>
+
+.col5050[
+.col1[
+]
+.col2[
+![:scale 30%](figures/ulises.png)
+.tiny[_¡Gracias Ulises!_]
+]
+]
+
+---
+
+## Why SICP matters (2011, 150th anniversary of MIT)
+
+<br>
+<br>
+
+.center[![:scale 105%](figures/speech_brian_harvey.png)]
+.tiny[https://people.eecs.berkeley.edu/~bh/sicp.html]
+
+<br>
+
+_Berkeley's new first course for majors uses Python, with lecture
+notes that try to keep the ideas (and some of the text) of SICP._
+
+
+
