@@ -117,30 +117,6 @@ Jordi Delgado, Juny 2024
 
 ---
 
-## _Not really..._ Lisp seminars, FIB, 80's
-
-<br>
-<br>
-
-```scheme
-(define (abs x)
-  ((if (< x 0) - +) x))
-```
-
-<br>
-<br>
-
-.col5050[
-.col1[
-]
-.col2[
-![:scale 30%](figures/ulises.png)
-.tiny[_¡Gracias Ulises!_]
-]
-]
-
----
-
 ## Why SICP matters (2011, 150th anniversary of MIT)
 
 <br>
